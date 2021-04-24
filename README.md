@@ -1,1 +1,0 @@
-# micro-cloud-config-service
